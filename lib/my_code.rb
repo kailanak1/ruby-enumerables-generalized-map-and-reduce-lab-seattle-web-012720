@@ -1,7 +1,8 @@
 # Your Code Here
 
 def map(array)
-  
+  new_array = [] 
+  new array << array
 end 
   
 
