@@ -4,4 +4,4 @@ def my_own_map(Array)
   yield(new_array << array)
 end 
 
-my_own_map(array){|n| n * -1}
+my_own_map(Array){|n| n * -1}
