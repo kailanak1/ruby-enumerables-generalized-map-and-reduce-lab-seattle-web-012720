@@ -12,3 +12,4 @@ end
   
 
 
+def reduce(array, starting_point)
