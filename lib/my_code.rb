@@ -1,6 +1,7 @@
 # Your Code Here
 def my_own_map(array)
-  yield(array)
+  new_array = [] 
+  yield(new_array)
 end 
 
 my_own_map(array){|n| n * -1}
