@@ -3,6 +3,7 @@
 def map(array)
   new_array = [] 
   new array << array
+  new_array 
 end 
   
 
