@@ -8,7 +8,7 @@ def map(array)
 end 
   
 
-.map do |num|
+new_array.map do |num|
   num * -1 
   print num
 end 
