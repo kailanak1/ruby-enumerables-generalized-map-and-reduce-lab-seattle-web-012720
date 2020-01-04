@@ -12,4 +12,3 @@ end
   
 
 
-array.map{|x| x * -1}
